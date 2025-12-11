@@ -23,4 +23,4 @@ How do you actually extract a single node of information given a bunch of text /
 
 What is a good case study for the first thing to investigate
 
-- Should direct agent to investigate a single topic — e.g. chicken domestication
+- Should direct agent to investigate a single topic — e.g. chicken domestication. Then produce a page with a list of notes, facts broken down, and then proposed hierarchy + how they fit in to the global scheme. Basically can be multiple layers of flow graphs.
